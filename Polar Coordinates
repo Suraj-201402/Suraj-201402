@@ -1,0 +1,6 @@
+from cmath import phase 
+z=complex(imput())
+a=phase(complex(z))
+b=abs(complex(z))
+print(b)
+print(a)
